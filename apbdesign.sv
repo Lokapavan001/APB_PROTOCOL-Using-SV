@@ -1,10 +1,4 @@
-// Code your design here
-//**********************************************
-/*
-   DESIGN BY CHIPEDGE TECHNOLOGIES PVT LTD
 
-*/
-//**********************************************
 module apb_slave(apb_interface dif);
 
   logic [31:0] mem [0:256];
