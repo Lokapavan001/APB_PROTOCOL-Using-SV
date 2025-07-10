@@ -31,7 +31,7 @@ apb_sv_verification/
 
 ---
 
-## 🧱 Testbench Architecture
+##  Testbench Architecture
 
 This testbench follows a modular, layered architecture inspired by UVM:
 
